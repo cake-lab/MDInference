@@ -15,12 +15,12 @@ It does this by dynamically selecting high accuracy models in the cloud as well 
 - Demonstrated impact of varied network conditions.
 - Introduced a holistic approach to mobile-aware framework design.
 
-<div align="center"><img src="./imgs/static-greedy-comparison-times.png" width="400" height="250"></div>
+<div align="center"><img src="./imgs/static-greedy-comparison-times.png" height="250"></div>
 
 **Fig 1. Comparison of accuracy and latency between MDInference and a Greedy approach.**
 
 
-<div align="center"><img src="./imgs/on-device-model-usage-sla-sweep-residential.png" width="400" height="250"></div>
+<div align="center"><img src="./imgs/on-device-model-usage-sla-sweep-residential.png" height="250"></div>
 
 **Fig 2. Comparison of accuracy and latency between MDInference and various static approach.**
 
