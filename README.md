@@ -19,6 +19,7 @@ Compatibility with python3 has not been tested.
 
 When using this project please cite the original paper:
 
+```
 @inproceedings{Ogden2020,
   title={{MDInference: Balancing Inference Accuracy and Latency for Mobile Applications}},
   author={Samuel S Ogden and Tian Guo},
@@ -26,3 +27,4 @@ When using this project please cite the original paper:
   year={2020},
   organization={IEEE}
 }
+```
