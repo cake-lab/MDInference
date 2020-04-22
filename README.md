@@ -9,6 +9,21 @@ This paper focuses on the need for making mobile deep inference frameworks truly
 In addition we introduced our hypothetical framework, MDInference, that increased aggregate inference accuracy while bounding the latency of requests.
 It does this by dynamically selecting high accuracy models in the cloud as well as duplicating inference execution on-device.
 
+### Highlights
+
+- Increased aggregate accuracy by over 7\% and up to 40\%.
+- Demonstrated impact of varied network conditions.
+- Introduced a holistic approach to mobile-aware framework design.
+
+<div align="center"><img src="./imgs/static-greedy-comparison-times.pdf" width="400" height="250"></div>
+
+**Fig 1. Comparison of accuracy and latency between MDInference and a Greedy approach.**
+
+
+<div align="center"><img src="./imgs/on-device-model-usage-sla-sweep-residential.pdf" width="400" height="250"></div>
+
+**Fig 2. Comparison of accuracy and latency between MDInference and various static approach.**
+
 
 ## How to use the code
 Please see the instructions in the `code` folder.
