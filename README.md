@@ -1,8 +1,16 @@
 # MDInference
 Repository for the MDInference paper published at IC2E'20.
 
-## Updates
-Code and updates will be posted shortly.  Please check back soon!
+## Usage
+
+To install the MDInference package use the pip command pointing to the egg.
+```
+pip -e ./egg
+```
+
+## Version Compatibility
+Code is written for python2.7.
+Compatibility with python3 has not been tested.
 
 ## Contact
 * Samuel S. Ogden <ssogden@wpi.edu>
